@@ -2,7 +2,7 @@
 
 ## Students
 
-[Ariane Dalens](https://gitlab-student.centralesupelec.fr/ariane.dalens)   
+[Ariane Dlns](https://github.com/ArianeDlns) 
 
 #### Due date
 :calendar: **28/01/2021**  

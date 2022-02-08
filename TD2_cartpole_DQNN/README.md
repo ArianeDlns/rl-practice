@@ -2,7 +2,7 @@
 
 ## Students
 
-[Ariane Dalens](https://github.com/ArianeDlns)   
+[Ariane Dlns](https://github.com/ArianeDlns)   
 
 #### Due date
 :calendar: **21/02/2021**  
