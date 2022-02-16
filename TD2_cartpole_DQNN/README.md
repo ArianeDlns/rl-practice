@@ -33,13 +33,11 @@ In the ``./video`` folder you will find the .mp4 file with the result of our DQN
 
 ## Theoretical Explanation: Deep Q-Learning 
 
-$test$
-
 Deep Q-Learning uses a neural network to approximate $Q$ functions. Hence, we usually refer to this algorithm as DQN (for *deep Q network*).
 
 The parameters of the neural network are denoted by $\theta$. 
 *   As input, the network takes a state $s$,
-*   As output, the network returns $Q_\theta [a | s] = Q_\theta (s,a) = Q(s, a, \theta)$, the value of each action $a$ in state $s$, according to the parameters $\theta$.
+*   As output, the network returns <img src="https://render.githubusercontent.com/render/math?math=Q_\theta [a | s] = Q_\theta (s,a) = Q(s, a, \theta)">, the value of each action $a$ in state $s$, according to the parameters $\theta$.
 
 
 The goal of Deep Q-Learning is to learn the parameters $\theta$ so that $Q(s, a, \theta)$ approximates well the optimal $Q$-function $Q^*(s, a) \simeq Q_{\theta^*} (s,a)$. 
