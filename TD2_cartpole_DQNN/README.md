@@ -33,6 +33,8 @@ In the ``./video`` folder you will find the .mp4 file with the result of our DQN
 
 ## Theoretical Explanation: Deep Q-Learning 
 
+$test$
+
 Deep Q-Learning uses a neural network to approximate $Q$ functions. Hence, we usually refer to this algorithm as DQN (for *deep Q network*).
 
 The parameters of the neural network are denoted by $\theta$. 
