@@ -140,4 +140,4 @@ data/
 # Remove solution & references
 solution/
 references/
-videos/
+videos/*.json
