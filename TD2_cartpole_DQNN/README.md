@@ -19,7 +19,7 @@ An interactive .ipynb notebook: ``TD2_RL_Ariane_Dalens.ipynb`` shows the results
 
 In the ``./video`` folder you will find 
 
-![CartPole](https://raw.githubusercontent.com/ArianeDlns/rl-practice/master/TD2_cartpole_DQNN/videos/openaigym.video.0.77186.video000000.mp4)
+![CartPole](https://raw.githubusercontent.com/ArianeDlns/rl-practice/master/TD2_cartpole_DQNN/videos/openaigym.video.0.77186.video000000.gif)
 
 ## :package: Organisation of the project
 
